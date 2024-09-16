@@ -1,5 +1,9 @@
 **Dependencies**
-Tkinter for GUI development
-Pillow (PIL) for image processing
-OpenCV for image manipulation
-scikit-learn for machine learning models
+
+1. Tkinter for GUI development
+
+2. Pillow (PIL) for image processing
+
+3. OpenCV for image manipulation
+
+4. scikit-learn for machine learning models
