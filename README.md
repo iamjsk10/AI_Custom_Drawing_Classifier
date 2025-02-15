@@ -7,3 +7,5 @@
 3. OpenCV for image manipulation
 
 4. scikit-learn for machine learning models
+
+check wiki for demo
